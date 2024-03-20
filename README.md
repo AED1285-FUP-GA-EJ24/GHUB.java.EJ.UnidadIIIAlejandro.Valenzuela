@@ -1,9 +1,8 @@
-# Proyecto - Simple Hola Mundo
+# Proyecto - Fundamentos de Programacion: Estructuras de Control
 
 ## Descripción del Problema
 
-Este ejercicio simplemente imprime por consola la frase "Hola Mundo".
-
+Contiene una lista de ejercicios para conocer y aplicar as estructuras condicionales y repetitivas de Java
 ## Ejecución
 
 Tu programa debería ejecutarse de la siguiente manera:
